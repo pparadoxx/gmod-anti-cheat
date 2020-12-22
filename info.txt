@@ -1,0 +1,25 @@
+-- Made by paradox
+
+This was a basic lua detecting anti-cheat I made in a few minutes, its pretty secure and detects most public lua cheats curently. I'm definity making more anti-cheats at some po-
+int, however im not exactly sure when I will.
+
+Heres a list of things I want to add:
+
+Table detection using debug.getmetatable(_G)
+
+Concommand check
+
+Hook.GetAll() check
+
+Crash games (_restart worked but im stupid so now it doesn't)
+
+( ͡° ͜ʖ ͡°)
+
+Burst code
+
+Fuck with key binds (turn this shit into HAC)
+
+Fuck with _G and remove all of our stuff from _G
+
+-----------------------
+If you find a bypass feel free to open an issue but the screengrab stuff really doesn't count (relies off the fact that Phizz is big dumb).
